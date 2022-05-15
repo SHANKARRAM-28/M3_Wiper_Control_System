@@ -34,5 +34,5 @@ Windscreen wiper is a device that cleans water, snow or mud from the windscreen 
 | --- | --- | --- |
 | LR01 | Button pressed ONCE for two seconds - ON LED RED | Implemented |
 | LR02 | Button pressed once again times - OFF LED RED | Implemented |
-| LR03 | Button pressed two time - ON BLUE,GREEN,YELLOW | Implemented |
-| LR03 | Button pressed again for two seconds - OFF YELLOW,GREEN,BLUE | Implemented |
+| LR03 | Button pressed two time - ON BLUE,GREEN,ORANGE | Implemented |
+| LR03 | Button pressed again for two seconds - OFF ORANGE,GREEN,BLUE | Implemented |

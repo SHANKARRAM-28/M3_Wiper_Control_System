@@ -1,4 +1,7 @@
 # M3_Wiper_Control_System
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1a49cf43197846a8a0156b92170650ae)](https://app.codacy.com/gh/SHANKARRAM-28/M3_Wiper_Control_System?utm_source=github.com&utm_medium=referral&utm_content=SHANKARRAM-28/M3_Wiper_Control_System&utm_campaign=Badge_Grade_Settings)
+
   Windscreen wiper is a device that cleans water, snow or mud from the windscreen of vehicle. Thus, it ensures proper visibility of the road ahead.  This system finds application on a large variety of locomotives from vehicles, railways to aero-planes. Generally, the term ‘windscreen wiper’ refers to the wipers installed on the front windshield of a vehicle. However, nowadays, rear wipers are also getting popular.
 
   Almost all the modern wiper mechanisms employ an electric motor for their operation. However, in some cases, pneumatic drives are also used to drive wiper arm. Some of the primitive designs of the wiper mechanism were hand operated. Rain sensing wipers is a recent development in wipers.

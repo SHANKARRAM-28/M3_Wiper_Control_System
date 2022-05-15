@@ -28,3 +28,6 @@
 
 ### THREATS
 * Can't repair quickly
+
+## BADGES
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ccc6a36c1d4a467893e5d6575ce9cced)](https://www.codacy.com/gh/SHANKARRAM-28/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SHANKARRAM-28/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
